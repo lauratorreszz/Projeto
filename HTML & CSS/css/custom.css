@@ -1,0 +1,25 @@
+body, html{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#barra_nav {
+    width: 100%;
+    background-color: transparent;
+    transition: background ease-out 0.2s;
+}
+
+#barra_nav .navbar-collapse{
+    width: auto;
+}
+
+#barra_nav .nav-link {
+    padding-left: 0 ;
+    padding-right: 0 ;
+    color: var(--preto);
+    border-bottom: solid 2px transparent;
+}
+
+#barra_nav .nav-link:hover{
+    border-bottom: solid 2px var(--azul);
+    color: var(--azul);
+}
