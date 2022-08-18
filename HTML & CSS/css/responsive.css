@@ -17,4 +17,8 @@
     #servicos a.destaque .img-container img{
         max-height: 120px;
     }
+    #rodape ul {
+        padding-top: 30px;
+        justify-content: center;
+    }
 }
