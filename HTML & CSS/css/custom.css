@@ -60,3 +60,55 @@ body, html{
 #servicos a.destaque .img-containar img{
     max-height: 160px;
 }
+
+#noticias .noticia{
+    background-color: var(--bege);
+    border-radius: 5px;
+    display: flex;
+    padding: 30px;
+}
+
+#noticias .noticia .nome{
+    color: var(--cinza);
+}
+
+#noticias .noticia .nome span{
+    color: var(--preto);
+}
+
+#rodape ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#rodape ul li {
+    display: flex;
+    list-style-type: none;
+    margin-left: 25px;
+}
+
+#rodape ul li:first-child {
+    margin-left: 0;
+}
+
+#rodape ul li a {
+    display: flex;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    transition: all ease-out 0.2s;
+}
+
+#rodape ul li a:hover {
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+    background-color: #fff;
+}
+
+#rodape ul li img {
+    max-height: 20px;
+}
