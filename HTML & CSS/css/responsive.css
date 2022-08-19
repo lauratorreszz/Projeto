@@ -1,0 +1,28 @@
+@media (min-width: 992px){
+    #barra_nav .nav-link{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+}
+@media (max-width: 991.98px) {
+    #barra_nav .navbar_collapse{
+        width: 100%;
+    }
+}
+
+@media (max-width: 767.98px){
+    #servicos a.destaque .img-container{
+        height: 120px;
+    }
+    #servicos a.destaque .img-container img{
+        max-height: 120px;
+    }
+    #rodape ul {
+        padding-top: 30px;
+        justify-content: center;
+    }
+    #rodape .img_logo{
+        align-items: center; 
+        text-align: center;
+    }
+}
