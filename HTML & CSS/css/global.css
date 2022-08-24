@@ -1,0 +1,164 @@
+.button{
+    font-weight: 500;
+    padding-left: 1.4rem;
+    padding-right: 1.4rem;
+}
+
+.btn-primary{
+    background-color: var(--azul);
+    border-color: var(--azul);
+}
+
+.carousel-caption{
+    position: absolute;
+    margin: 0;
+    bottom: 0;
+    right: 0;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.padding{
+
+    padding: 80px 0;;
+}
+
+.padding img{
+    width: 100%;
+}
+
+.welcome{
+    width: 75%;
+    margin: 0 auto;
+    padding-top: 2rem;
+}
+
+.welcome hr{
+    border-top: 2px solid var(--bege);
+    width: 95%;
+    margin-top: .3rem;
+    margin-bottom: 1rem;
+}
+
+a {
+    color: var(--preto);
+}
+
+a:hover{
+    color: var(--azul);
+}
+
+.slide-container{
+    max-width: 1120px;
+    width: 100%;
+    padding: 40px 0;
+    background-color: var(--marfim) ;
+
+}
+
+.slide-content{
+    margin: 0 40px;
+    overflow: hidden;
+    border-radius: 25px;
+}
+
+.card{
+    border-radius: 25px;
+    background-color: #fff;
+}
+
+.card-image{
+    position: relative;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background: #fff;
+    padding: 3px;
+}
+
+.card-image .card-img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 4px solid var(--azul);
+}
+
+.image-content, 
+.card-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 14px;
+}
+
+.image-content{
+    position: relative;
+    row-gap: 5px;
+    padding: 25px 0;
+}
+
+.overlay{
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: var(--azul) ;
+    border-radius:  25px 25px 0px 25px;
+}
+
+.name{
+    font-size: 18px;
+    font-weight: 500;
+    color: #333;
+}
+
+.description{
+    font-size: 14px;
+    color: #707070;
+    text-align: center;
+}
+
+.button{
+    border:none;
+    font-size: 16px;
+    color: #fff;
+    padding: 8px 16px;
+    background-color: var(--azul);
+    border-radius: 6px;
+    margin: 14px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.button:hover{
+    background: var(--azulclaro);
+}
+
+.swiper-navBtn{
+    color: #6E93f7;
+    transition: color 0.3s ease;
+}
+  .swiper-navBtn:hover{
+    color: #4070F4;
+}
+  .swiper-navBtn::before,
+  .swiper-navBtn::after{
+    font-size: 35px;
+}
+  .swiper-button-next{
+    right: 0;
+}
+  .swiper-button-prev{
+    left: 0;
+}
+  .swiper-pagination-bullet{
+    background-color: #6E93f7;
+    opacity: 1;
+}
+  .swiper-pagination-bullet-active{
+    background-color: #4070F4;
+}
