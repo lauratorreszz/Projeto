@@ -4,7 +4,7 @@ body, html{
 
 #barra_nav {
     width: 100%;
-    background-color: var(--azul);
+    background-color: var(--marfim);
     transition: background ease-out 0.2s;
 }
 
