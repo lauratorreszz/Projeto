@@ -1,0 +1,63 @@
+ <div id="servicos" class="block">
+      <div class="container">
+        <h2 class="title text-center">Nossos serviços</h2>
+        <div class="divider">
+        <h4 class="subtitle text-center mb-4"> Et sumi kapa namur aoendai rocus pocus</h4>
+        </div>
+        <div class="row">
+          <div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
+            <a href="" class="destaque">
+               <div class="img-container mb-3">
+                  <img src="assets/riocor1.png" alt="">
+               </div>
+               <h5 class="text-uppercase">Et sumi kapo</h5>
+               <p class="mb-0">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium</p>
+            </a>
+          </div>
+
+   <div id="servicos" class="block">
+      <div class="container">
+        <h2 class="title text-center">Nossos serviços</h2>
+        <div class="divider">
+        <h4 class="subtitle text-center mb-4"> Et sumi kapa namur aoendai rocus pocus</h4>
+        </div>
+        <div class="row">
+          <div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
+            <a href="" class="destaque">
+               <div class="img-container mb-3">
+                  <img src="assets/riocor1.png" alt="">
+               </div>
+               <h5 class="text-uppercase">Et sumi kapo</h5>
+               <p class="mb-0">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium</p>
+            </a>
+          </div>
+          <div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
+            <a href="" class="destaque">
+               <div class="img-container mb-3">
+                  <img src="assets/rio4-3.png" alt="">
+               </div>
+               <h5 class="text-uppercase">Et sumi kapo</h5>
+               <p class="mb-0">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium</p>
+            </a>
+          </div>
+          <div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
+            <a href="" class="destaque">
+               <div class="img-container mb-3">
+                  <img src="assets/riocor3.png" alt="">
+               </div>
+               <h class="text-uppercase"5>Et sumi kapo</h>
+               <p class="mb-0">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium</p>
+            </a>
+          </div>
+          <div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
+            <a href="" class="destaque">
+               <div class="img-container mb-3">
+                  <img src="assets/riocor2.png" alt="">
+               </div>
+               <h5 class="text-uppercase">Et sumi kapo</h5>
+               <p class="mb-0">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium</p>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
