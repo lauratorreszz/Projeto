@@ -1,0 +1,932 @@
+  <div class="container">
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-container mySwiper">
+     
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">
+                <img src="img/01.jpg"
+                    alt="">
+                <div class="card-description">
+                    <div class="card-title">
+                        <h4>Descripción</h4>
+                    </div>
+                    <div class="card-text">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum enim possimus dolorum non,
+                            modi
+                            sunt ips.</p>
+                    </div>
+                    <div class="card-link">
+                      <a href="#">Ver más</a>
+                    </div>
+                </div>
+
+            </div>
+            <div class="swiper-slide">
+                <img src="img/02.jpg"
+                    alt="">
+                <div class="card-description">
+                    <div class="card-title">
+                        <h4>Descripción</h4>
+                    </div>
+                    <div class="card-text">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum enim possimus dolorum non,
+                            modi
+                            sunt ips.</p>
+                    </div>
+                    <div class="card-link">
+                      <a href="#">Ver más</a>
+                    </div>
+            </div>
+        </div>
+            <div class="swiper-slide">
+                <img src="img/03.jpg"
+                alt="">
+            <div class="card-description">
+                <div class="card-title">
+                    <h4>Descripción</h4>
+                </div>
+                <div class="card-text">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum enim possimus dolorum non,
+                        modi
+                        sunt ips.</p>
+                </div>
+                <div class="card-link">
+                  <a href="#">Ver más</a>
+                </div>
+            </div>
+        </div>
+            <div class="swiper-slide">
+                <img src="img/04.jpg"
+                alt="">
+            <div class="card-description">
+                <div class="card-title">
+                    <h4>Descripción</h4>
+                </div>
+                <div class="card-text">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum enim possimus dolorum non,
+                        modi
+                        sunt ips.</p>
+                </div>
+                <div class="card-link">
+                  <a href="#">Ver más</a>
+                </div>
+            </div>
+        </div>
+            <div class="swiper-slide">
+                <img src="img/05.jpg"
+                alt="">
+            <div class="card-description">
+                <div class="card-title">
+                    <h4>Descripción</h4>
+                </div>
+                <div class="card-text">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum enim possimus dolorum non,
+                        modi
+                        sunt ips.</p>
+                </div>
+                <div class="card-link">
+                  <a href="#">Ver más</a>
+                </div>
+            </div>
+        </div>
+           
+            <div class="swiper-slide">
+                <img src="img/06.jpg"
+                alt="">
+            <div class="card-description">
+                <div class="card-title">
+                    <h4>Descripción</h4>
+                </div>
+                <div class="card-text">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum enim possimus dolorum non,
+                        modi
+                        sunt ips.</p>
+                </div>
+                <div class="card-link">
+                  <a href="#">Ver más</a>
+                </div>
+            </div>
+        </div>
+            </div>
+   
+        </div>
+     
+     
+
+    </div>
+
+</div>
+        
+
+
+
+
+
+SITE OFICIAL 
+
+ <div id="noticias">
+      <div class="cards-slides">
+        <div class="carousel-inner" data-aos="fade-up">
+          <div class="carousel-item active">
+            <div class="cards-wrapper">
+            <div class="card" style="width: 18rem;">
+              <div class="image-wrapper">
+              <img src="..." class="card-img-top" alt="...">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+              </div>
+            </div>
+            <div class="card" style="width: 18rem;">
+              <div class="image-wrapper">
+              <img src="..." class="card-img-top" alt="...">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+              </div>
+            </div>
+            <div class="card" style="width: 18rem;">
+              <div class="image-wrapper">
+              <img src="..." class="card-img-top" alt="...">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+              </div>
+            </div>
+          </div>
+    
+          </div>
+          <div class="carousel-item">
+            <div class="cards-wrapper">
+            <div class="card" style="width: 18rem;">
+              <div class="image-wrapper">
+              <img src="..." class="card-img-top" alt="...">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+              </div>
+            </div>
+            <div class="card" style="width: 18rem;">
+              <div class="image-wrapper">
+              <img src="..." class="card-img-top" alt="...">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+              </div>
+            </div>
+            <div class="card" style="width: 18rem;">
+              <div class="image-wrapper">
+              <img src="..." class="card-img-top" alt="...">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+              </div>
+            </div>
+            </div>
+    
+          </div>
+          <div class="carousel-item">
+            <div class="cards-wrapper">
+            <div class="card" style="width: 18rem;">
+              <div class="image-wrapper">
+              <img src="..." class="card-img-top" alt="...">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+              </div>
+            </div>
+            <div class="card" style="width: 18rem;">
+              <div class="image-wrapper">
+              <img src="..." class="card-img-top" alt="...">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+              </div>
+            </div>
+            <div class="card" style="width: 18rem;">
+              <div class="image-wrapper">
+              <img src="..." class="card-img-top" alt="...">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+              </div>
+            </div>
+            </div>
+    
+          </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+        
+    </div>
+    
+
+@media screen and (max-width: 567px){
+    .card:not(:first-child){
+        display: none; 
+    }
+}
+@media (min-width: 768px) {
+    .card img {
+        height: 11em;
+    }
+}
+
+@media screen and (min-width: 568px){
+    .cards-wrapper{
+        display: flex; 
+    }
+}
+
+
+.news-container{
+    max-width: 1120px;
+    width: 100%;
+    padding: 40px 0;
+    background-color: var(--marfim) ;
+
+}
+
+.card{
+    border-radius: 25px;
+    background-color: #fff;
+}
+
+.card-image{
+    position: relative;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background: #fff;
+    padding: 3px;
+}
+
+.card-image .card-img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 4px solid var(--azul);
+}
+
+.image-content, 
+.card-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 14px;
+}
+
+.image-content{
+    position: relative;
+    row-gap: 5px;
+    padding: 25px 0;
+}
+
+.name{
+    font-size: 18px;
+    font-weight: 500;
+    color: #333;
+}
+
+.description{
+    font-size: 14px;
+    color: #707070;
+    text-align: center;
+}
+
+.button{
+    border:none;
+    font-size: 16px;
+    color: #fff;
+    padding: 8px 16px;
+    background-color: var(--azul);
+    border-radius: 6px;
+    margin: 14px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.button:hover{
+    background: var(--azulclaro);
+}
+
+.cards-wrapper {
+    display: flex;
+}
+
+.card img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.card {
+    margin: 0.5em;
+    width: calc(100%/3);
+    box-shadow: 2px 6px 8px 0 rgba(22, 22, 26, 0.18);
+    border: none;
+    border-radius: 0;
+}
+
+.image-wrapper{
+    height: 22vw;
+    margin: 0 auto; 
+    /*display: flex;
+    align-items: center;
+    justify-content: center;*/
+}
+
+.image-wrapper img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
+#noticias{
+    min-height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #efefef;
+}
+
+
+
+
+
+
+
+*/
+.slider{
+  max-width: 1100px;
+  display: flex;
+}
+.slider .card{
+  flex: 1;
+  margin: 0 10px;
+  background: #fff;
+}
+.slider .card .img{
+  height: 200px;
+  width: 100%;
+}
+.slider .card .img img{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.slider .card .card-body{
+  padding: 10px 20px;
+}
+.card .card-body .card-title{
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.card .card-body p{
+  text-align: justify;
+  margin: 10px 0;
+}
+*
+
+
+
+.image-wrapper img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
+#noticias{
+    min-height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #efefef;
+} 
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+  }
+  html,body{
+    display: grid;
+    height: 100%;
+    place-items: center;
+    text-align: center;
+    background: #f2f2f2;
+  }
+  .slider{
+    max-width: 1100px;
+    display: flex;
+  }
+  .slider .card{
+    flex: 1;
+    margin: 0 10px;
+    background: #fff;
+  }
+  .slider .card .img{
+    height: 200px;
+    width: 100%;
+  }
+  .slider .card .img img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+  }
+  .slider .card .content{
+    padding: 10px 20px;
+  }
+  .card .content .title{
+    font-size: 25px;
+    font-weight: 600;
+  }
+  .card .content .sub-title{
+    font-size: 20px;
+    font-weight: 600;
+    color: #e74c3c;
+    line-height: 20px;
+  }
+  .card .content p{
+    text-align: justify;
+    margin: 10px 0;
+  }
+  .card .content .btn{
+    display: block;
+    text-align: left;
+    margin: 10px 0;
+  }
+  .card .content .btn button{
+    background: #e74c3c;
+    color: #fff;
+    border: none;
+    outline: none;
+    font-size: 17px;
+    padding: 5px 8px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.2s;
+  }
+  .card .content .btn button:hover{
+    transform: scale(0.9);
+  }
+
+  @media screen and (max-width: 567px){
+    .card:not(:first-child){
+        display: none; 
+    }
+}
+@media (min-width: 768px) {
+    .card img {
+        height: 11em;
+    }
+}
+
+@media screen and (min-width: 568px){
+    .cards-wrapper{
+        display: flex; 
+    }
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+   <head>
+      <meta charset="utf-8">
+      <title>Owl-carousel Cards Slider</title>
+      <link rel="stylesheet" href="style.css">
+      <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+      <link rel="stylesheet" href="bootstrap.min.css">
+   </head>
+   <body>
+    <div id="noticias">
+      <div class="slider owl-carousel" >
+         <div class="card" style="width: 18rem;">
+            <div class="image-wrapper">
+                <img src="..." class="card-img-top" alt="...">
+            </div>
+            <div class="card-body">
+               <div class="card-title">
+                  Briana Tozour
+               </div>
+               <p class="card-text">
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.
+               </p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+         </div>
+         <div class="card" style="width: 18rem;">
+            <div class="image-wrapper">
+                <img src="..." class="card-img-top" alt="...">
+            </div>
+            <div class="card-body">
+               <div class="card-title">
+                  Pricilla Preez
+               </div>
+               <p class="card-text">
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.
+               </p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+         </div>
+         <div class="card" style="width: 18rem;">
+            <div class="image-wrapper">
+                <img src="..." class="card-img-top" alt="...">
+            </div>
+            <div class="card-body">
+               <div class="card-title">
+                  Eliana Maia
+               </div>
+               <p class="card-text">
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit modi dolorem quis quae animi nihil minus sed unde voluptas cumque.
+               </p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+         </div>
+      </div>
+    </div>
+      <script>
+         $(".slider").owlCarousel({
+           loop: true,
+           autoplay: true,
+           autoplayTimeout: 5000, //2000ms = 2s;
+           autoplayHoverPause: true,
+         });
+      </script>
+      <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.5/dist/umd/popper.min.js" integrity="sha384-Xe+8cL9oJa6tN/veChSP7q+mnSPaj5Bcu9mPX5F5xIGE0DVittaqT5lorf0EI7Vk" crossorigin="anonymous"></script>
+   </body>
+</html>
+
+
+
+ <div id="noticias">
+      <div class="cards-slides">
+        <div class="carousel-inner" data-aos="fade-up">
+          <div class="carousel-item active">
+            <div class="cards-wrapper">
+            <div class="card" style="width: 18rem;">
+              <div class="image-wrapper">
+              <img src="..." class="card-img-top" alt="...">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+              </div>
+            </div>
+            <div class="card" style="width: 18rem;">
+              <div class="image-wrapper">
+              <img src="..." class="card-img-top" alt="...">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+              </div>
+            </div>
+            <div class="card" style="width: 18rem;">
+              <div class="image-wrapper">
+              <img src="..." class="card-img-top" alt="...">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+              </div>
+            </div>
+          </div>
+    
+          </div>
+          <div class="carousel-item">
+            <div class="cards-wrapper">
+            <div class="card" style="width: 18rem;">
+              <div class="image-wrapper">
+              <img src="..." class="card-img-top" alt="...">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+              </div>
+            </div>
+            <div class="card" style="width: 18rem;">
+              <div class="image-wrapper">
+              <img src="..." class="card-img-top" alt="...">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+              </div>
+            </div>
+            <div class="card" style="width: 18rem;">
+              <div class="image-wrapper">
+              <img src="..." class="card-img-top" alt="...">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+              </div>
+            </div>
+            </div>
+    
+          </div>
+          <div class="carousel-item">
+            <div class="cards-wrapper">
+            <div class="card" style="width: 18rem;">
+              <div class="image-wrapper">
+              <img src="..." class="card-img-top" alt="...">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+              </div>
+            </div>
+            <div class="card" style="width: 18rem;">
+              <div class="image-wrapper">
+              <img src="..." class="card-img-top" alt="...">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+              </div>
+            </div>
+            <div class="card" style="width: 18rem;">
+              <div class="image-wrapper">
+              <img src="..." class="card-img-top" alt="...">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+              </div>
+            </div>
+            </div>
+    
+          </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+        
+    </di
+
+
+.image-wrapper img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
+#noticias{
+    min-height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #efefef;
+} 
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+  }
+  html,body{
+    display: grid;
+    height: 100%;
+    place-items: center;
+    text-align: center;
+    background: #f2f2f2;
+  }
+  .slider{
+    max-width: 1100px;
+    display: flex;
+  }
+  .slider .card{
+    flex: 1;
+    margin: 0 10px;
+    background: #fff;
+  }
+  .slider .card .img{
+    height: 200px;
+    width: 100%;
+  }
+  .slider .card .img img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+  }
+  .slider .card .content{
+    padding: 10px 20px;
+  }
+  .card .content .title{
+    font-size: 25px;
+    font-weight: 600;
+  }
+  .card .content .sub-title{
+    font-size: 20px;
+    font-weight: 600;
+    color: #e74c3c;
+    line-height: 20px;
+  }
+  .card .content p{
+    text-align: justify;
+    margin: 10px 0;
+  }
+  .card .content .btn{
+    display: block;
+    text-align: left;
+    margin: 10px 0;
+  }
+  .card .content .btn button{
+    background: #e74c3c;
+    color: #fff;
+    border: none;
+    outline: none;
+    font-size: 17px;
+    padding: 5px 8px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.2s;
+  }
+  .card .content .btn button:hover{
+    transform: scale(0.9);
+  }
+
+  @media screen and (max-width: 567px){
+    .card:not(:first-child){
+        display: none; 
+    }
+}
+@media (min-width: 768px) {
+    .card img {
+        height: 11em;
+    }
+}
+
+@media screen and (min-width: 568px){
+    .cards-wrapper{
+        display: flex; 
+    }
+}
+
+
+
+
+
+aaaa
+
+/*
+.news-container{
+    max-width: 1120px;
+    width: 100%;
+    padding: 40px 0;
+    background-color: var(--marfim) ;
+
+}*/
+
+.card{
+    border-radius: 25px;
+    background-color: #fff;
+}
+
+.card-image{
+    position: relative;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background: #fff;
+    padding: 3px;
+}
+
+.card-image .card-img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 4px solid var(--azul);
+}
+
+.image-content, 
+.card-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 14px;
+}
+
+.image-content{
+    position: relative;
+    row-gap: 5px;
+    padding: 25px 0;
+}
+
+.name{
+    font-size: 18px;
+    font-weight: 500;
+    color: #333;
+}
+
+.description{
+    font-size: 14px;
+    color: #707070;
+    text-align: center;
+}
+
+.button{
+    border:none;
+    font-size: 16px;
+    color: #fff;
+    padding: 8px 16px;
+    background-color: var(--azul);
+    border-radius: 6px;
+    margin: 14px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.button:hover{
+    background: var(--azulclaro);
+}
+
+.cards-wrapper {
+    display: flex;
+}
+
+.card img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.card {
+    margin: 0.5em;
+    width: calc(100%/3);
+    box-shadow: 2px 6px 8px 0 rgba(22, 22, 26, 0.18);
+    border: none;
+    border-radius: 0;
+}
+
+.image-wrapper{
+    height: 22vw;
+    margin: 0 auto; 
+    /*display: flex;
+    align-items: center;
+    justify-content: center;*/
+}
+
+.image-wrapper img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
+
+
+
+
