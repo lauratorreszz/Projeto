@@ -1,0 +1,154 @@
+section {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    z-index: 2;
+    position: relative;
+}
+
+.button{
+    font-weight: 500;
+    padding-left: 1.4rem;
+    padding-right: 1.4rem;
+}
+
+.btn-primary{
+    background: var(--azul);
+    border-color: var(--azul);
+}
+
+.capa-section .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(rgba(22, 68, 146, 0.7), rgba(102, 197, 209, 0.7));
+    z-index: -1;
+}
+
+.sobre1-section .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(rgba(22, 68, 146, 0.7), rgba(102, 197, 209, 0.7));
+    z-index: -1;
+}
+
+.contato-section .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(rgba(22, 68, 146, 0.7), rgba(102, 197, 209, 0.7));
+    z-index: -1;
+}
+
+.bg-cover {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.capa-section {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.padding{
+
+    padding: 80px 0;;
+}
+
+.padding img{
+    width: 100%;
+}
+
+.divider{
+    height: 4px;
+    width: 70px;
+    background: linear-gradient(to right, var(--azulclarao), var(--azul));
+    margin: 16px auto;
+}
+
+a {
+    color: var(--preto);
+}
+
+a:hover{
+    color: var(--azul);
+}
+
+.image-wrapper img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
+#noticias{
+    min-height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #efefef;
+
+} 
+  .slider{
+    max-width: 1100px;
+    display: flex;
+  }
+  .slider .card{
+    flex: 1;
+    margin: 0 10px;
+    background: #fff;
+  }
+  .slider .card .img{
+    height: 200px;
+    width: 100%;
+  }
+  .slider .card .img img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+  }
+  .slider .card .card-body{
+    padding: 10px 20px;
+  }
+
+  .card .card-body p{
+    text-align: justify;
+    margin: 10px 0;
+  }
+  .card .card-body .btn{
+    display: block;
+    text-align: left;
+    margin: 10px 0;
+  }
+
+
+form .form-control {
+    border-radius: 0;
+    background: transparent;
+    color: #fff;
+    border-color: rgba(255, 255, 255, 0.5);
+}
+
+form .form-control:focus {
+    color: #fff;
+    background: transparent;
+    border-color: #fff;
+}
+
+form input.form-control {
+    height: 54px;
+}
+
+form .form-control::placeholder {
+    color: #fff;
+}
+
